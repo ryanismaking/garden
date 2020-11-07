@@ -12,7 +12,7 @@ import Image from "gatsby-image"
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/profile-pic/" }) {
         childImageSharp {
           fixed(width: 50, height: 50, quality: 95) {
             ...GatsbyImageSharpFixed
@@ -52,13 +52,17 @@ const Bio = () => {
         />
       )}
       {author?.name && (
-        <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
-        </p>
+        <div>
+          {/*<p>Written by <strong>{author.name}</strong> {author?.summary || null}
+            {` `}
+            <a href={`https://twitter.com/${social?.twitter || ``}`}>
+              You should follow them on Twitter
+            </a></p>*/}
+          <p>
+            Hi. I’m Ryan. My goal is to create useful, accessible, well-crafted digital products with awesome people, and ultimately teach others how to do the same.
+          </p>
+          <p>Currently, I’m looking for opportunities to learn and contribute as an associate-level product designer in a product-driven company. ✨</p>
+        </div>
       )}
     </div>
   )
