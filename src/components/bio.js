@@ -62,6 +62,17 @@ const Bio = () => {
             Hi. I’m Ryan. My goal is to create useful, accessible, well-crafted digital products with awesome people, and ultimately teach others how to do the same.
           </p>
           <p>Currently, I’m looking for opportunities to learn and contribute as an associate-level product designer in a product-driven company. ✨</p>
+          
+           {/* <p>
+           Hey. I’m Ryan, a product designer-to-be in Melbourne, Australia. I believe enlightened businesses help their customers and employees by nailing the basics, and then asking questions about delight, meaning, and flow.
+           </p>
+           <p>I’m transitioning to design from a career working with code so I can focus on human-scale problems. I think my experience gives me a unique perspective and opportunity.</p>
+
+<p>Currently, I’m a UI developer in realestate.com.au’s rad design ops team. We give our designers and developers a leg up so they can make awesome shiz. Together, we help millions of Australians find their forever homes.</p>
+
+<p>I snagged a computer science degree with a major in interactive media way back in 2010, which means I know a lot about how to tell computers what to do in excruciating detail and why even that sometimes isn’t enough.</p>
+
+<p>In my spare time I play Nintendo, send my sister funny memes, and teach group fitness dance classes.</p> */}
         </div>
       )}
     </div>
