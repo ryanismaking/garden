@@ -36,7 +36,7 @@ So, we decided we needed to make something.
 
 When Hack Day came, my friend pitched his idea to fix retrospectives. We assembled a small team, and started discussing the problems we had each faced in our retrospectives as a group. We then voted on the important ones.
 
-![voting-on-problems](//images.contentful.com/v0tocsvawh82/6eSbJla0xyOKIageIWIAI8/891b99ac31ece755423c23dfe80a64f4/voting-on-problems.JPG)
+![voting-on-problems](./voting-on-problems.jpeg)
 
 We wanted to focus on building something that would:
 
@@ -44,7 +44,7 @@ We wanted to focus on building something that would:
 - Increase the scalability of health-checks to larger teams and teams with multiple distributed groups.
 - Reduce the amount of time necessary to share retrospective results in a clear visual format.
 
-![idea-sketching](//images.contentful.com/v0tocsvawh82/5ePpkWPtYcAu4S0C4GyWOy/0d5e7c08f11078b7ba33c6566e22d0f0/idea-sketching.JPG)
+![idea-sketching](./idea-sketching.jpeg)
 
 The team then spent ten minutes quickly sketching four ideas each to satisfy the outcomes.
 
@@ -56,7 +56,7 @@ I happily jumped at the chance to practice visual design, and attempted to expla
 
 ### Getting ready
 
-![getting-ready](//images.contentful.com/v0tocsvawh82/37nmb3ejKoesUSUeQGeqgY/eed6d3be6784ed46481a1def08afb7ca/getting-ready.png)
+![getting-ready](./getting-ready.png)
 
 When the team walks in to the retrospective, everyone can see a shared screen (such as a television or projection) which is connected to the facilitator’s computer.
 
@@ -64,7 +64,7 @@ Directed by the facilitation screen, everyone uses their phones to log in to the
 
 ### Voting
 
-![voting](//images.contentful.com/v0tocsvawh82/2sT42BbOKIsKuUK0Yy2eY4/8ea602e3964544a6d7cf5d1b33d05a71/voting.png)
+![voting](./voting.png)
 
 When the facilitator decides to begin, everyone collectively sees the topic being voted on, and a description which defines it.
 
@@ -72,7 +72,7 @@ Individually, people vote in private on their phones. Nobody knows the results u
 
 ### Tally
 
-![tally](//images.contentful.com/v0tocsvawh82/5uZOvMhGj6eMq2Q0gQ6YI0/798e1fce7cfdf9a0f91c1db303c0ea74/tally.png)
+![tally](./tally.png)
 
 Once everyone has finished voting (or registered their abstention), the tally is automatically displayed on the facilitation screen.
 
@@ -80,7 +80,7 @@ This automatic tallying removes the repetitive counting facilitators often go th
 
 ### Final results
 
-![final-results](//images.contentful.com/v0tocsvawh82/6fh0XL03tY26WYewimk8gW/f0cf9978cba610f73441f06e2621286c/final-results.png)
+![final-results](./final-results.png)
 
 Once all the topics have been voted upon, the final results are shown on the facilitator’s screen for everyone to see. The hope is that this visual format will be easily shareable.
 
@@ -88,4 +88,4 @@ Once all the topics have been voted upon, the final results are shown on the fac
 
 Our plan now is to use these mock-ups to make a prototype to test with teams. We plan to iterate on our findings and build a minimal viable product.
 
-![health-check-poster](//images.contentful.com/v0tocsvawh82/2DZBejXbnOcMs66IWeEKkK/d677bb2b61c24ac2a029fdb7886d757c/health-check-poster.png)
+![health-check-poster](./health-check-poster.png)

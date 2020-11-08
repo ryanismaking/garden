@@ -34,13 +34,13 @@ I ended up presenting [Sketch](https://www.sketchapp.com/) interaction designs f
 
 ### Title and duration
 
-![title-and-duration](//images.contentful.com/v0tocsvawh82/1YvXOysecoKEKWuyScAWoc/47f731412745d6cdfa42e8ce02bb9fe2/title-and-duration.png)
+![Title and duration](./title-and-duration.png)
 
 Displaying a descriptive title and the video’s running length helps users decide whether this video is relevant and suitable.
 
 ### Autoplay
 
-![autoplay](//images.contentful.com/v0tocsvawh82/44zamYj9Higw0sWsmkgmCq/95e83b6973ef10a0f081337a199df2a8/autoplay.png)
+![Autoplay](./autoplay.png)
 
 A timer is displayed on a video before it begins automatically playing, to give the user enough time to decide whether they’d like to watch. If the video does begin to play, its sound is initially muted, just in case the user didn’t notice the timer.
 
@@ -50,6 +50,6 @@ Pressing cancel disables autoplay for this video and a manual play button is sho
 
 ### A personal playlist
 
-![personal-playlist](//images.contentful.com/v0tocsvawh82/5q7fFZYBiMyEyC4SQukaC6/ea438812e071df2bc4d632d8ba947621/personal-playlist.png)
+![Personal playlist](./personal-playlist.png)
 
 Because of a technical limitation, we aren’t able to show the related video playlist until the conclusion of the pre-roll advertisement. It ended up being the perfect opportunity to strengthen our brand with some copy to create a friendly, personalised experience.

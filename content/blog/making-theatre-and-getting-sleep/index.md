@@ -14,7 +14,7 @@ Stage managers are responsible for maintaining the artistic integrity of the sho
 
 The stage manager learns where particular lighting, sound, and other technical effects should happen and notes these effects, which they call _cues_, in their copy of the script. It’s critical they refer back to these notes to cue the other members of the crew, like me, when to do their jobs—keeping everyone synchronised.
 
-![Spamalot cues](//images.contentful.com/v0tocsvawh82/B5agyiGoV2skGemUo44kq/fd7352e782c3812c02baf2bf93f034a8/spamalot-cues.jpg)
+![Spamalot cues](./spamalot.jpg)
 
 The demands placed on stage managers by a tight schedule mean that they rush to get their notes done as they learn new information, which can sometimes lead to poor legibility. This isn’t acceptable, as this is the only copy of notes about how things should work on stage during the show. So, they have to stay up late to rewrite or retype any notes that are confusing or illegible.
 
@@ -25,7 +25,7 @@ I was able to verify that my original observation was an actual problem: “Grey
 I asked each participant to tell me about what they need to get accomplished during each stage of the production, how they work currently, what they worry about, and what they think they do well.
 Getting my participants’ permission to record the session was a really good idea, as it allowed me to take my mind off writing notes and just have a conversation. I was able to use my interview guide as a starting point and let the questions evolve and adapt, which meant the participant was more engaged and that I ultimately discovered more than if I’d stuck to my pre-written list of topics.
 
-![stage-manager-research](//images.contentful.com/v0tocsvawh82/3cbVJ0rtTyy8qg6QOMysq6/c9e66d098269b5c6ba6774ec0429c45c/stage-manager-research.jpg)
+![stage-manager-research](./stage-manager-research.jpg)
 
 I pulled together repeating patterns of quotes from the qualitative research into a persona. She represented the insights I gained in listening to the problems my stage managers talked about whilst trying to do the many jobs for which they are accountable.
 
@@ -74,11 +74,11 @@ Word:
 
 In an attempt to come up with varied ideas to solve the problems discovered in the research phase, I dove head-first into a timed quick-sketching exercise.
 
-![generating-ideas-for-staged](//images.contentful.com/v0tocsvawh82/2VIxG1FfxKygYsuYuUu4Si/c505227847745409b0b7f74108863ed9/generating-ideas-for-staged.jpg)
+![generating-ideas-for-staged](./generating-ideas-for-staged.jpg)
 
 Out of the twelve concepts I sketched, I chose four to focus on—the ones which I felt were easy wins, and of the highest value. In this case study, for the sake of brevity, I will limit the discussion to the solution depicted in sketch 8.
 
-![prioritisation-of-staged-features](//images.contentful.com/v0tocsvawh82/2CSlXS8RnW2mSM6oicuWEU/5b6c7b6650623e1cbd0da1e452d2f1b5/prioritisation-of-staged-features.jpg)
+![prioritisation-of-staged-features](./prioritisation-of-staged-features.jpg)
 
 In hindsight, my idea generation process wasn’t focused enough on which specific problem I was setting out to solve and the outcome I wanted for my stage managers. Instead of sticking to just the outcome of neater notes, I also ended up thinking about how to solve other related issues. Doing this exercise over again, I would sketch solutions in this twelve-up format for only one outcome at a time.
 
@@ -96,21 +96,21 @@ On reflection, there is a feature which allows easier note-taking within Word wh
 
 ### Iteration one
 
-![workflow](//images.contentful.com/v0tocsvawh82/4uib4NE8aIcs4UuKC4WAgs/be880d7d4a8847c7e5b1eaa711320c5a/workflow.png)
+![workflow](./workflow.png)
 
 Firstly, I created a flow diagram to map out the logical sequence of actions required of a stage manager to locate the correct position in the script, create their cue, and save it to the script. Next, I used the flow to begin sketching rough versions of how the workflow interactions onscreen might afford the behaviours.
 
 For the purposes of the exercise, it was assumed the user was already able to upload their script somehow. Also, the flow diagram shows extra behaviour which I added in iteration two as I was neglectful in keeping all versions of the visual assets I was creating—something I’m keen to learn how other designers manage.
 
-![find-section-of-script](//images.contentful.com/v0tocsvawh82/6lBU9qpvHii6WosgW64WCe/72ade2e0d87ae1ed2d28790affa282dd/find-section-of-script.jpg)
-![editing-annotations](//images.contentful.com/v0tocsvawh82/Px0gObmvCgqicGgAYwEoy/045b4a8b8766aa5abefa3073514f1785/editing-annotations.jpg)
+![find-section-of-script](./find-section-of-script.jpg)
+![editing-annotations](./editing-annotations.jpg)
 
 When I started the low-fidelity sketching, I had not taken into consideration the availability of my test subjects in advance. Since they were unavailable, I ended up making assumptions about which interactions might work. Looking back, I don’t think this was the right thing to do—any feedback is better than no feedback, and even testing my paper prototypes with people who aren’t stage managers (albeit with a little bit of context-setting) would have steered me based on evidence rather than intuition.
 
-![find-screen](//images.contentful.com/v0tocsvawh82/1Ans8DuLOI8ioQqUOSkkg8/a5a8da67e50aa5e4406be3367c57371b/find-screen.jpg)
-![annotate-screen](//images.contentful.com/v0tocsvawh82/51ZuTv62oMe8AemSUyGeio/4a2a0429d2aeb83400f568d5b4bc7eb8/annotate-screen.jpg)
-![cue-edit-screen](//images.contentful.com/v0tocsvawh82/3Wakr7jmF2WQYI84eaYm4o/225864c1180cfeb7cd05d97b6a4f06de/cue-edit-screen.jpg)
-![script-screen](//images.contentful.com/v0tocsvawh82/2eIcieaHyEYiSq2oYswWCc/ca44bc80316e27f6db8e56a4c064e626/script-screen.jpg)
+![find-screen](./find-screen.jpg)
+![annotate-screen](./annotate-screen.jpg)
+![cue-edit-screen](./cue-edit-screen.jpg)
+![script-screen](./script-screen.jpg)
 
 Having decided on how each of the interactions would work, I created high-fidelity mocks in [Sketch](https://www.sketchapp.com/), which I would use as the basis for testing on a real iPad by streaming the images to the [Mirror](https://www.sketchapp.com/docs/mirror/mirror/) app.
 My usability test was straight forward: I asked the participant to say how they might add a cue to the script, and then read the cues aloud as if they were calling cues in a show.
@@ -123,9 +123,9 @@ In addition, she said the design did not allow control over the finer details, s
 
 ### Iteration two
 
-![add-multiple-cues](//images.contentful.com/v0tocsvawh82/3PBVDZ7fXOyQMWaoQO6UEC/895e073bd8eac0c343ad27f6965d3807/add-multiple-cues.png)
+![add-multiple-cues](./add-multiple-cues.png)
 
-![add-multiple-cues-screen](//images.contentful.com/v0tocsvawh82/3YuOB8kmrmGmOgAq02mk0c/e37f7fc1a3c124bc8a21563cc24b0165/add-multiple-cues-screen.png)
+![add-multiple-cues-screen](./add-multiple-cues-screen.png)
 
 I jumped into high-fidelity revisions quickly after sketching a concept for iteration two, but it may have been helpful to go back to one of my participants with the sketch first, to see what they thought, before I invested time in pushing pixels around. I ended up graduating these revisions into an interactive [InVision prototype](https://invis.io/CV76HZLSZ), which I used for the second round of testing.
 
