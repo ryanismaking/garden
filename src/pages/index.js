@@ -27,7 +27,8 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
       <Bio />
-      <ol style={{ listStyle: `none` }}>
+      <h2 className="section-heading">Selected work</h2>
+      <ol className="post-list">
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
@@ -38,22 +39,21 @@ const BlogIndex = ({ data, location }) => {
                 itemScope
                 itemType="http://schema.org/Article"
               >
-                <header>
-                  <h2>
+                  {/* <img src="" /> */}
+                  <p className="post-list-item-heading">
                     <Link to={post.fields.slug} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>
-                  </h2>
-                  <small>{post.frontmatter.date}</small>
-                </header>
-                <section>
-                  <p
+                  </p>
+               
+                  <p 
+                    className="post-list-item-description"
                     dangerouslySetInnerHTML={{
                       __html: post.frontmatter.description || post.excerpt,
                     }}
                     itemProp="description"
                   />
-                </section>
+               
               </article>
             </li>
           )
